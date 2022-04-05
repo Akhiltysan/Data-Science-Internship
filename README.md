@@ -1,2 +1,2 @@
 # Data-Science-Internship
-https://akhiltysan.github.io/Data-Science-Internship/  tap here for my projects
+https://github.com/Akhiltysan/Data-Science-Internship/tree/main  tap here for my projects
